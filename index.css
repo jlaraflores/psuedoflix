@@ -39,6 +39,7 @@ html {
     }
 }
 
+/* Text Animation */
 #first {
     animation-name: fadeinfirst;
     animation-duration: 4s;
